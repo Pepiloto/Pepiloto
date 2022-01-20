@@ -14,4 +14,5 @@ I'm Paul, a 3rd year Epitech student.
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pepiloto&layout=compact&langs_count=10&theme=dark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pepiloto&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Pepiloto's github stats](https://github-readme-stats.vercel.app/api?username=Pepiloto&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+[![Pepiloto's trophy](https://github-profile-trophy.vercel.app/?username=Pepiloto&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
